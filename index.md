@@ -10,7 +10,7 @@ layout: default
 
 # About me
 
-Welcome to my homepage! I am pursuing a doctoral degree in Computer Science and Technology under the supervision of [Prof. Yong Deng](https://scholar.google.com/citations?user=Zuhod6sAAAAJ&hl=zh-CN) at the [Institute of Fundamental and Frontier Sciences](https://www.iffs.uestc.edu.cn/), [University of Electronic Science and Technology of China](https://www.uestc.edu.cn/).
+Welcome to my homepage! I am pursuing the doctoral degree in Computer Science and Technology under the supervision of [Prof. Yong Deng](https://scholar.google.com/citations?user=Zuhod6sAAAAJ&hl=zh-CN) at the [Institute of Fundamental and Frontier Sciences](https://www.iffs.uestc.edu.cn/), [University of Electronic Science and Technology of China](https://www.uestc.edu.cn/).
 
 In 2021.03-2021.08, I joined the [Foresight Research Laboratory](https://www.ict.ac.cn/jssgk/zzjg/kyxt/qzyjsys/js/) at the Chinese Academy of Sciences as a research intern graduate student under the supervision of [Dr. Guojing Tian](https://www.ict.ac.cn/sourcedb/cn/jssrck/202010/t20201023_5721551.html), focusing on belief functions and quantum computing.
 
