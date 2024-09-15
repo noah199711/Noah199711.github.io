@@ -152,6 +152,8 @@ B. Gao, **Qianli Zhou**, and Y. Deng\*, *"BIM-AFA: Belief information measure-ba
 
 <span style="color:gray;">**TL;DR:** The dual entropy, eXtropy, is interpreted from the negative perspective, and the SU measure is extended into its dual form, i.e., the information volume of the dual of mass function.
 
+**2020**
+
 **Qianli Zhou**, H. Mo, and Y. Deng\*, *"A new divergence measure of pythagorean fuzzy sets based on belief function and its application in medical diagnosis,"* Mathematics, vol. 8, no. 1. \[[DOI](https://doi.org/10.3390/math8010142)\] 
 
 <span style="color:gray;">**TL;DR:**  The Pythagorean fuzzy subset (PFS) is modeled in the belief function framework , and the belief divergence is developed to measure the dissimilarity of PFSs.
