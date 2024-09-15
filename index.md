@@ -18,7 +18,7 @@ In 2022.11-2023.10, I joined the [Witold Pedrycz](https://apps.ualberta.ca/direc
 
 Privously, I received my bachelor's degree from the [School of Information and Communication Engineering](https://www.sice.uestc.edu.cn/), [University of Electronic Science and Technology of China](https://www.uestc.edu.cn/).
 
-In my spare time, I have a strong interest in **tennis** and **fitness**. In terms of e-sports, In e-sports, my unique heroes are Rek'sai in _League of Legends_ and Athena in _Honor of Kings_.
+In my spare time, I have a strong interest in **tennis** and **fitness**. In e-sports, my unique heroes are Rek'sai in _League of Legends_ and Athena in _Honor of Kings_.
 
 # Research interests
 
