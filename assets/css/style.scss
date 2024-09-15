@@ -2,3 +2,22 @@
 ---
 
 @import 'jekyll-theme-hacker';
+.header-photo-right {
+  float: right; /* 让照片在右侧浮动 */
+  margin-left: 10px; /* 给照片左侧添加一些空隙 */
+  border-radius: 100%; /* 可选：将照片设置为圆形 */
+  height: 200px; /* 设置照片的高度，保持比例 */
+}
+
+
+header {
+  margin-bottom: 40px; /* 增加 header 和下面内容之间的间距，调整这个数值以适应你的需求 */
+}
+
+section#main_content {
+  padding-top: 10px; /* 你可以选择给内容顶部添加 padding */
+}
+
+.some-element {
+  border-bottom: none; /* 删除虚线 */
+}
