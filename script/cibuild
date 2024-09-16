@@ -3,13 +3,9 @@
 set -e
 
 bundle exec jekyll build
-
+bundle exec htmlproofer ./_site --checks Links,Images,Scripts
 bundle exec rubocop -D --config .rubocop.yml
 bundle exec script/validate-html
 gem build jekyll-theme-hacker.gemspec
 
-# Build the Jekyll site
-bundle exec jekyll build
 
-# Run HTML-Proofer to check for broken links, ignoring certain URLs
-bundle exec htmlproofer ./_site --checks Links,Images,Scripts --url-ignore "https://doi.org/10.1080/03610926.2021.1980049,https://doi.org/10.1142/S0218348X22500797,https://www.researchgate.net/profile/Qianli-Zhou"
