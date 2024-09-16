@@ -8,7 +8,7 @@ layout: default
 
 <img src="{{ site.profile_image }}" alt="我的照片" class="header-photo-right">
 
-# About me
+# About Me
 
 Welcome to my homepage! I am pursuing the doctoral degree in Computer Science and Technology under the supervision of [Prof. Yong Deng](https://scholar.google.com/citations?user=Zuhod6sAAAAJ&hl=zh-CN) at the [Institute of Fundamental and Frontier Sciences](https://www.iffs.uestc.edu.cn/), [University of Electronic Science and Technology of China](https://www.uestc.edu.cn/).
 
@@ -20,23 +20,41 @@ Privously, I received my bachelor's degree from the [School of Information and C
 
 In my spare time, I have a strong interest in **tennis** and **fitness**. In e-sports, my unique heroes are Rek'sai in _League of Legends_ and Athena in _Honor of Kings_.
 
-# Research interests
+
+# Research Interests
 
 My research interests span the interdisciplinary domains of **belief functions**, **granular computing**, **quantum computing**, **fractals and chaos**. The specific topics are introduced below. 
 
-I am always happy to discuss and collaborate with colleagues interested in these topics.
+<span style="color:pink;">1. Bridges on belief function, possibility and probability
 
-<span style="color:gray;">>> Bridges on belief function, possibility and probability
+<span style="color:pink;"> 2. Granular computing towards on the belief structure
 
-<span style="color:gray;">>> Granular computing towards on the belief structure
+<span style="color:pink;"> 3. Uncertainty measures in generalized information theory
 
-<span style="color:gray;">>> Uncertainty measures in generalized information theory
+<span style="color:pink;"> 4. Updating belief on quantum circuits
 
-<span style="color:gray;">>> Updating belief on quantum circuits
+<span style="color:pink;"> 5. Fractals and chaos phenomenon in uncertain information
 
-<span style="color:gray;">>> Fractals and chaos phenomenon in uncertain information
+I am looking for colleagues who are interested in the above topics to collaborate. The following are some of my research attitudes. If we have the similar attitude, please do not hesitate to [contact me](mailto:zhouqianliuestc@hotmail.com)!
+
+<span style="color:pink;">>> Don't make bad money to drive out good money.
+
+<span style="color:pink;">>> Don't do research that deliberately pleases others.
+
+<span style="color:pink;">>> Resolutely defend original knowledge and respect original authors.
+
+<span style="color:pink;">>> Don't shy away from criticism and comments for own research.
+
+<span style="color:pink;">>> Respect science and admire academics.
+
+<span style="color:pink;">>> Help colleagues develop without violating the above principles.
+
+
+
+
 
 # Awards and Achievements
+
 \[**2024**\] Tennis123 Chengdu 3.0 Singles 53rd Station Champion.
 
 \[**2024**\] The 90th Athena of Shandong.
@@ -58,7 +76,7 @@ I am always happy to discuss and collaborate with colleagues interested in these
 
 <span style="color:red;"> The codes will be uploaded later.> <
 
-### Journal Articles
+### Journal articles
 
 
 **2024**
@@ -98,7 +116,7 @@ L. Zhu, **Qianli Zhou**, Y. Deng\*, and K. H. Cheong\*, *"Fractal-based basic pr
 
 <span style="color:gray;">**TL;DR:** The multi-valued mapping of the mass function is interpreted as the construction of information granules, and an uncertainty measure that can be degenerated into the Gini index is developed, and this measure can be extended to fuzzy evidentail information.
 
-**Qianli Zhou**, Y. Cui, Z. Li, and Y. Deng\*, *"Marginalization in random permutation set theory: From the cooperative game perspective,"* Nonlinear Dynamics, vol. 111, pp. 13125-13141.   \[[DOI](https://doi.rg/1o0.1007/s11071-023-08506-7)\]
+**Qianli Zhou**, Y. Cui, Z. Li, and Y. Deng\*, *"Marginalization in random permutation set theory: From the cooperative game perspective,"* Nonlinear Dynamics, vol. 111, pp. 13125-13141.   \[[DOI](https://doi.org/10.1007/s11071-023-08506-7)\]
 
 <span style="color:gray;">**TL;DR:** The relationship between Shapley values ​​and pignistic probability transformation is extended to the ordered structures. Based on the MEOWA, the transformation from random permutation set to its marginal structure developed for the first time.
 
@@ -159,7 +177,7 @@ B. Gao, **Qianli Zhou**, and Y. Deng\*, *"BIM-AFA: Belief information measure-ba
 <span style="color:gray;">**TL;DR:**  The Pythagorean fuzzy subset (PFS) is modeled in the belief function framework , and the belief divergence is developed to measure the dissimilarity of PFSs.
 
 
-### Conference Proceedings
+### Conference proceedings
 
 
 **2024**
