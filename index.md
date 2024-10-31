@@ -81,6 +81,18 @@ I am looking for colleagues who are interested in the above topics to collaborat
 
 **2024**
 
+**Qianli Zhou**, W. Pedrycz, Y. Deng\*, *"Order-2 Probabilistic Information Fusion on Random Permutation Set"* IEEE Transactions on Knowledge and Data Engineering, Online Published. \[[DOI](https://doi.org/10.1109/TKDE.2024.3484009)\]
+
+<span style="color:gray;">**TL;DR:** We develop an updating method for order-2 probabilistic information and use it to model information fusion of random permutation sets under a random finite set interpretation.
+
+L. Li, **Qianli Zhou\***, Y. Deng\*, and É. Bossé, *"Towards an efficient implementation of Dempster–Shafer: alpha-junction fusion rules on quantum circuits,"* Quantum Information Processing, Publishing. \[[DOI](https://doi.org/10.1007/s11128-024-04581-w)\]
+
+ <span style="color:gray;">**TL;DR:** We show that when using VQLS to implement the matrix fusion method of the belief function, alpha-junction, the matrix operations of the belief function can be implemented faster than the general matrix.
+
+L. Zhu, **Qianli Zhou\***, Y. Deng\*, and W. Pedrycz, *"Information fusion in order-2 fuzzy environments: A matrix transformation perspective,"* Fuzzy Sets and Systems, vol. 498 pp. 109146. \[[DOI](https://doi.org/10.1016/j.fss.2024.109146)\]
+
+ <span style="color:gray;">**TL;DR:** We develop a non-optimized order-2 fuzzy sets fusion method from the perspective of matrix decomposition.
+
 Q. Hu, **Qianli Zhou\***, Y. Deng\*, and K. H. Cheong\*, *"Evidence generalization-based discounting method: Assigning unreliable information to partial ignorance,"* Artificial Intelligence Review, vol. 57 no. 9, pp. 1-27. \[[DOI](https://doi.org/10.1007/s10462-024-10833-z)\]
 
  <span style="color:gray;">**TL;DR:** For unreliable mass function, we provide a more flexible discounting approach based on the generalization of belief functions. Compared with the Shafer's discounting approach, the reliable status of the sources can be adjusted with less information loss.
