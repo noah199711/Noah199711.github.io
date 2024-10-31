@@ -81,7 +81,7 @@ I am looking for colleagues who are interested in the above topics to collaborat
 
 **2024**
 
-**Qianli Zhou**, W. Pedrycz, Y. Deng\*, *"Order-2 Probabilistic Information Fusion on Random Permutation Set"* IEEE Transactions on Knowledge and Data Engineering, Online Published. \[[DOI](https://doi.org/10.1109/TKDE.2024.3484009)\]<a href="support.pdf" download>下载文件</a>
+**Qianli Zhou**, W. Pedrycz, Y. Deng\*, *"Order-2 Probabilistic Information Fusion on Random Permutation Set"* IEEE Transactions on Knowledge and Data Engineering, Online Published. \[[DOI](https://doi.org/10.1109/TKDE.2024.3484009)\]<a href="support.pdf" download>Supplementary File</a>
 
 <span style="color:gray;">**TL;DR:** We develop an updating method for order-2 probabilistic information and use it to model information fusion of random permutation sets under a random finite set interpretation.
 
