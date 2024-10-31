@@ -55,7 +55,9 @@ I am looking for colleagues who are interested in the above topics to collaborat
 
 # Awards and Achievements
 
-\[**2024**\] Tennis123 Chengdu 3.0 Singles 53rd Station Champion.
+\[**2024**\] Tennis123 Chengdu 4.0+ Singles Runner-up.
+
+\[**2024**\] Tennis123 Chengdu 3.0 Singles Champion.
 
 \[**2024**\] The 90th Athena of Shandong.
 
@@ -76,12 +78,20 @@ I am looking for colleagues who are interested in the above topics to collaborat
 
 <span style="color:red;"> The codes will be uploaded later.> <
 
+### Unpublished
+
+**Qianli Zhou**, H. Luo, L. Pan, Y. Deng\*, and É. Bossé, *"Transferable Belief Model on Quantum Circuits,"* IEEE Transactions on Artificial Intelligence, Under Review.  \[[ArXiv](https://arxiv.org/pdf/2410.08949)\]
+
+**Qianli Zhou**, T. Zhan, and Y. Deng\*, *"Isopignistic Canonical Decomposition via Belief Evolution Network,"*2025 AAAI, Under Review.  \[[ArXiv](https://arxiv.org/pdf/2405.02653)\]
+
+H. Luo, **Qianli Zhou\***, L. Pan, Z, Li and Y. Deng\*, *"Attribute Fusion-based Evidential Classifier on Quantum Circuits,"* IEEE Transactions on Pattern Analysis and Machine Intelligence, Under Review.  \[[ArXiv](https://arxiv.org/pdf/2401.01392)\]
+
 ### Journal articles
 
 
 **2024**
 
-**Qianli Zhou**, W. Pedrycz, Y. Deng\*, *"Order-2 Probabilistic Information Fusion on Random Permutation Set"* IEEE Transactions on Knowledge and Data Engineering, Online Published. \[[DOI](https://doi.org/10.1109/TKDE.2024.3484009)\]<a href="support.pdf" download>Supplementary File</a>
+**Qianli Zhou**, W. Pedrycz, and Y. Deng\*, *"Order-2 Probabilistic Information Fusion on Random Permutation Set,"* IEEE Transactions on Knowledge and Data Engineering, Online Published. \[[DOI](https://doi.org/10.1109/TKDE.2024.3484009)\], <a href="support.pdf" download>Supplementary File</a>
 
 <span style="color:gray;">**TL;DR:** We develop an updating method for order-2 probabilistic information and use it to model information fusion of random permutation sets under a random finite set interpretation.
 
